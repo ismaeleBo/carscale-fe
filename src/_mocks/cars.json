@@ -1,0 +1,1527 @@
+[
+  {
+    "name": "Toyota",
+    "models": [
+      {
+        "name": "Camry",
+        "image": "https://example.com/toyota-camry.jpg",
+        "variants": ["LE", "SE", "XLE", "XSE"],
+        "productionYears": "1982-present",
+        "value": 25000
+      },
+      {
+        "name": "Corolla",
+        "image": "https://example.com/toyota-corolla.jpg",
+        "variants": ["L", "LE", "SE", "XLE", "XSE"],
+        "productionYears": "1966-present",
+        "value": 20000
+      },
+      {
+        "name": "RAV4",
+        "image": "https://example.com/toyota-rav4.jpg",
+        "variants": ["LE", "XLE", "XLE Premium", "Adventure", "Limited"],
+        "productionYears": "1994-present",
+        "value": 28000
+      },
+      {
+        "name": "Highlander",
+        "image": "https://example.com/toyota-highlander.jpg",
+        "variants": ["L", "LE", "XLE", "XSE", "Limited", "Platinum"],
+        "productionYears": "2000-present",
+        "value": 35000
+      },
+      {
+        "name": "Prius",
+        "image": "https://example.com/toyota-prius.jpg",
+        "variants": ["L Eco", "LE", "XLE", "Limited"],
+        "productionYears": "1997-present",
+        "value": 24000
+      },
+      {
+        "name": "Tacoma",
+        "image": "https://example.com/toyota-tacoma.jpg",
+        "variants": ["SR", "SR5", "TRD Sport", "TRD Off-Road", "Limited"],
+        "productionYears": "1995-present",
+        "value": 30000
+      },
+      {
+        "name": "Sienna",
+        "image": "https://example.com/toyota-sienna.jpg",
+        "variants": ["LE", "XLE", "XSE", "Limited", "Platinum"],
+        "productionYears": "1997-present",
+        "value": 32000
+      },
+      {
+        "name": "4Runner",
+        "image": "https://example.com/toyota-4runner.jpg",
+        "variants": ["SR5", "TRD Sport", "TRD Off-Road", "Limited", "TRD Pro"],
+        "productionYears": "1984-present",
+        "value": 38000
+      },
+      {
+        "name": "Tundra",
+        "image": "https://example.com/toyota-tundra.jpg",
+        "variants": [
+          "SR",
+          "SR5",
+          "Limited",
+          "Platinum",
+          "1794 Edition",
+          "TRD Pro"
+        ],
+        "productionYears": "1999-present",
+        "value": 40000
+      },
+      {
+        "name": "C-HR",
+        "image": "https://example.com/toyota-chr.jpg",
+        "variants": ["LE", "XLE", "Limited"],
+        "productionYears": "2016-present",
+        "value": 22000
+      },
+      {
+        "name": "Avalon",
+        "image": "https://example.com/toyota-avalon.jpg",
+        "variants": ["XLE", "XSE", "Limited", "Touring"],
+        "productionYears": "1994-present",
+        "value": 36000
+      },
+      {
+        "name": "Yaris",
+        "image": "https://example.com/toyota-yaris.jpg",
+        "variants": ["L", "LE", "XLE"],
+        "productionYears": "1999-present",
+        "value": 18000
+      }
+    ],
+    "logo": "https://example.com/toyota-logo.png"
+  },
+  {
+    "name": "Honda",
+    "models": [
+      {
+        "name": "Civic",
+        "image": "https://example.com/honda-civic.jpg",
+        "variants": ["LX", "Sport", "EX", "Touring"],
+        "productionYears": "1972-present",
+        "value": 22000
+      },
+      {
+        "name": "Accord",
+        "image": "https://example.com/honda-accord.jpg",
+        "variants": ["LX", "Sport", "EX-L", "Touring"],
+        "productionYears": "1976-present",
+        "value": 27000
+      },
+      {
+        "name": "CR-V",
+        "image": "https://example.com/honda-crv.jpg",
+        "variants": ["LX", "EX", "EX-L", "Touring"],
+        "productionYears": "1995-present",
+        "value": 28000
+      },
+      {
+        "name": "Pilot",
+        "image": "https://example.com/honda-pilot.jpg",
+        "variants": ["LX", "EX", "EX-L", "Touring", "Elite"],
+        "productionYears": "2002-present",
+        "value": 35000
+      },
+      {
+        "name": "Odyssey",
+        "image": "https://example.com/honda-odyssey.jpg",
+        "variants": ["LX", "EX", "EX-L", "Touring", "Elite"],
+        "productionYears": "1994-present",
+        "value": 32000
+      },
+      {
+        "name": "HR-V",
+        "image": "https://example.com/honda-hrv.jpg",
+        "variants": ["LX", "Sport", "EX", "EX-L"],
+        "productionYears": "2015-present",
+        "value": 23000
+      },
+      {
+        "name": "Fit",
+        "image": "https://example.com/honda-fit.jpg",
+        "variants": ["LX", "Sport", "EX", "EX-L"],
+        "productionYears": "2001-present",
+        "value": 18000
+      },
+      {
+        "name": "Insight",
+        "image": "https://example.com/honda-insight.jpg",
+        "variants": ["LX", "EX", "Touring"],
+        "productionYears": "1999-present",
+        "value": 25000
+      },
+      {
+        "name": "Passport",
+        "image": "https://example.com/honda-passport.jpg",
+        "variants": ["Sport", "EX-L", "Touring", "Elite"],
+        "productionYears": "1993-present",
+        "value": 33000
+      },
+      {
+        "name": "Ridgeline",
+        "image": "https://example.com/honda-ridgeline.jpg",
+        "variants": ["Sport", "RTL", "RTL-E", "Black Edition"],
+        "productionYears": "2005-present",
+        "value": 36000
+      }
+    ],
+    "logo": "https://example.com/honda-logo.png"
+  },
+  {
+    "name": "Ford",
+    "models": [
+      {
+        "name": "F-150",
+        "image": "https://example.com/ford-f150.jpg",
+        "variants": ["XL", "XLT", "Lariat", "King Ranch", "Platinum"],
+        "productionYears": "1948-present",
+        "value": 35000
+      },
+      {
+        "name": "Mustang",
+        "image": "https://example.com/ford-mustang.jpg",
+        "variants": ["EcoBoost", "GT", "Mach 1", "Shelby GT500"],
+        "productionYears": "1964-present",
+        "value": 30000
+      },
+      {
+        "name": "Explorer",
+        "image": "https://example.com/ford-explorer.jpg",
+        "variants": ["Base", "XLT", "Limited", "ST", "Platinum"],
+        "productionYears": "1990-present",
+        "value": 33000
+      },
+      {
+        "name": "Escape",
+        "image": "https://example.com/ford-escape.jpg",
+        "variants": ["S", "SE", "SEL", "Titanium"],
+        "productionYears": "2000-present",
+        "value": 26000
+      },
+      {
+        "name": "Edge",
+        "image": "https://example.com/ford-edge.jpg",
+        "variants": ["SE", "SEL", "Titanium", "ST"],
+        "productionYears": "2006-present",
+        "value": 32000
+      },
+      {
+        "name": "Ranger",
+        "image": "https://example.com/ford-ranger.jpg",
+        "variants": ["XL", "XLT", "Lariat"],
+        "productionYears": "1983-present",
+        "value": 25000
+      },
+      {
+        "name": "Bronco",
+        "image": "https://example.com/ford-bronco.jpg",
+        "variants": [
+          "Base",
+          "Big Bend",
+          "Black Diamond",
+          "Outer Banks",
+          "Badlands",
+          "Wildtrak"
+        ],
+        "productionYears": "1965-1996, 2021-present",
+        "value": 30000
+      },
+      {
+        "name": "Expedition",
+        "image": "https://example.com/ford-expedition.jpg",
+        "variants": ["XL", "XLT", "Limited", "King Ranch", "Platinum"],
+        "productionYears": "1996-present",
+        "value": 50000
+      },
+      {
+        "name": "Fusion",
+        "image": "https://example.com/ford-fusion.jpg",
+        "variants": ["S", "SE", "SEL", "Titanium"],
+        "productionYears": "2005-2020",
+        "value": 24000
+      },
+      {
+        "name": "EcoSport",
+        "image": "https://example.com/ford-ecosport.jpg",
+        "variants": ["S", "SE", "Titanium", "SES"],
+        "productionYears": "2003-present",
+        "value": 20000
+      }
+    ],
+    "logo": "https://example.com/ford-logo.png"
+  },
+  {
+    "name": "Chevrolet",
+    "models": [
+      {
+        "name": "Silverado",
+        "image": "https://example.com/chevrolet-silverado.jpg",
+        "variants": ["WT", "Custom", "LT", "RST", "LTZ", "High Country"],
+        "productionYears": "1999-present",
+        "value": 33000
+      },
+      {
+        "name": "Camaro",
+        "image": "https://example.com/chevrolet-camaro.jpg",
+        "variants": ["LS", "LT", "SS", "ZL1"],
+        "productionYears": "1967-present",
+        "value": 28000
+      },
+      {
+        "name": "Equinox",
+        "image": "https://example.com/chevrolet-equinox.jpg",
+        "variants": ["L", "LS", "LT", "Premier"],
+        "productionYears": "2004-present",
+        "value": 25000
+      },
+      {
+        "name": "Malibu",
+        "image": "https://example.com/chevrolet-malibu.jpg",
+        "variants": ["L", "LS", "RS", "LT", "Premier"],
+        "productionYears": "1964-present",
+        "value": 23000
+      },
+      {
+        "name": "Traverse",
+        "image": "https://example.com/chevrolet-traverse.jpg",
+        "variants": ["L", "LS", "LT", "RS", "Premier", "High Country"],
+        "productionYears": "2008-present",
+        "value": 30000
+      },
+      {
+        "name": "Tahoe",
+        "image": "https://example.com/chevrolet-tahoe.jpg",
+        "variants": ["LS", "LT", "RST", "Z71", "Premier", "High Country"],
+        "productionYears": "1994-present",
+        "value": 50000
+      },
+      {
+        "name": "Colorado",
+        "image": "https://example.com/chevrolet-colorado.jpg",
+        "variants": ["WT", "LT", "Z71", "ZR2"],
+        "productionYears": "2004-present",
+        "value": 26000
+      },
+      {
+        "name": "Blazer",
+        "image": "https://example.com/chevrolet-blazer.jpg",
+        "variants": ["L", "LT", "RS", "Premier"],
+        "productionYears": "1969-1994, 2019-present",
+        "value": 33000
+      },
+      {
+        "name": "Trax",
+        "image": "https://example.com/chevrolet-trax.jpg",
+        "variants": ["LS", "LT", "Premier"],
+        "productionYears": "2013-present",
+        "value": 21000
+      },
+      {
+        "name": "Suburban",
+        "image": "https://example.com/chevrolet-suburban.jpg",
+        "variants": ["LS", "LT", "RST", "Z71", "Premier", "High Country"],
+        "productionYears": "1934-present",
+        "value": 52000
+      }
+    ],
+    "logo": "https://example.com/chevrolet-logo.png"
+  },
+  {
+    "name": "Nissan",
+    "models": [
+      {
+        "name": "Altima",
+        "image": "https://example.com/nissan-altima.jpg",
+        "variants": ["S", "SV", "SR", "SL", "Platinum"],
+        "productionYears": "1992-present",
+        "value": 24000
+      },
+      {
+        "name": "Rogue",
+        "image": "https://example.com/nissan-rogue.jpg",
+        "variants": ["S", "SV", "SL", "Platinum"],
+        "productionYears": "2007-present",
+        "value": 26000
+      },
+      {
+        "name": "Sentra",
+        "image": "https://example.com/nissan-sentra.jpg",
+        "variants": ["S", "SV", "SR"],
+        "productionYears": "1982-present",
+        "value": 20000
+      },
+      {
+        "name": "Maxima",
+        "image": "https://example.com/nissan-maxima.jpg",
+        "variants": ["SV", "SR", "Platinum"],
+        "productionYears": "1981-present",
+        "value": 35000
+      },
+      {
+        "name": "Murano",
+        "image": "https://example.com/nissan-murano.jpg",
+        "variants": ["S", "SV", "SL", "Platinum"],
+        "productionYears": "2002-present",
+        "value": 32000
+      },
+      {
+        "name": "Pathfinder",
+        "image": "https://example.com/nissan-pathfinder.jpg",
+        "variants": ["S", "SV", "SL", "Platinum"],
+        "productionYears": "1985-present",
+        "value": 33000
+      },
+      {
+        "name": "Frontier",
+        "image": "https://example.com/nissan-frontier.jpg",
+        "variants": ["S", "SV", "PRO-4X"]
+      }
+    ],
+    "logo": "https://example.com/nissan-logo.png"
+  },
+  {
+    "name": "BMW",
+    "models": [
+      {
+        "name": "3 Series",
+        "image": "https://example.com/bmw-3series.jpg",
+        "variants": ["330i", "330e", "M340i"],
+        "productionYears": "1975-present",
+        "value": 45000
+      },
+      {
+        "name": "X5",
+        "image": "https://example.com/bmw-x5.jpg",
+        "variants": ["sDrive40i", "xDrive40i", "M50i"],
+        "productionYears": "1999-present",
+        "value": 60000
+      },
+      {
+        "name": "5 Series",
+        "image": "https://example.com/bmw-5series.jpg",
+        "variants": ["530i", "540i", "M550i"],
+        "productionYears": "1972-present",
+        "value": 55000
+      },
+      {
+        "name": "X3",
+        "image": "https://example.com/bmw-x3.jpg",
+        "variants": ["sDrive30i", "xDrive30i", "M40i"],
+        "productionYears": "2003-present",
+        "value": 43000
+      },
+      {
+        "name": "7 Series",
+        "image": "https://example.com/bmw-7series.jpg",
+        "variants": ["740i", "750i", "M760i"],
+        "productionYears": "1977-present",
+        "value": 86000
+      },
+      {
+        "name": "X1",
+        "image": "https://example.com/bmw-x1.jpg",
+        "variants": ["sDrive28i", "xDrive28i"],
+        "productionYears": "2009-present",
+        "value": 35000
+      },
+      {
+        "name": "4 Series",
+        "image": "https://example.com/bmw-4series.jpg",
+        "variants": ["430i", "M440i"],
+        "productionYears": "2013-present",
+        "value": 45000
+      },
+      {
+        "name": "X7",
+        "image": "https://example.com/bmw-x7.jpg",
+        "variants": ["xDrive40i", "M50i"],
+        "productionYears": "2018-present",
+        "value": 74000
+      },
+      {
+        "name": "2 Series",
+        "image": "https://example.com/bmw-2series.jpg",
+        "variants": ["230i", "M240i"],
+        "productionYears": "2014-present",
+        "value": 35000
+      },
+      {
+        "name": "X6",
+        "image": "https://example.com/bmw-x6.jpg",
+        "variants": ["sDrive40i", "xDrive40i", "M50i"],
+        "productionYears": "2008-present",
+        "value": 65000
+      }
+    ],
+    "logo": "https://example.com/bmw-logo.png"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "models": [
+      {
+        "name": "C-Class",
+        "image": "https://example.com/mercedes-cclass.jpg",
+        "variants": ["C300", "AMG C43", "AMG C63"],
+        "productionYears": "1993-present",
+        "value": 50000
+      },
+      {
+        "name": "E-Class",
+        "image": "https://example.com/mercedes-eclass.jpg",
+        "variants": ["E350", "E450", "AMG E53"],
+        "productionYears": "1953-present",
+        "value": 65000
+      },
+      {
+        "name": "S-Class",
+        "image": "https://example.com/mercedes-sclass.jpg",
+        "variants": ["S500", "S580", "AMG S63"],
+        "productionYears": "1972-present",
+        "value": 110000
+      },
+      {
+        "name": "GLE",
+        "image": "https://example.com/mercedes-gle.jpg",
+        "variants": ["GLE350", "GLE450", "AMG GLE53"],
+        "productionYears": "2015-present",
+        "value": 57000
+      },
+      {
+        "name": "A-Class",
+        "image": "https://example.com/mercedes-aclass.jpg",
+        "variants": ["A220", "AMG A35"],
+        "productionYears": "1997-present",
+        "value": 33000
+      },
+      {
+        "name": "GLC",
+        "image": "https://example.com/mercedes-glc.jpg",
+        "variants": ["GLC300", "AMG GLC43", "AMG GLC63"],
+        "productionYears": "2015-present",
+        "value": 43000
+      },
+      {
+        "name": "CLA",
+        "image": "https://example.com/mercedes-cla.jpg",
+        "variants": ["CLA250", "AMG CLA35", "AMG CLA45"],
+        "productionYears": "2013-present",
+        "value": 37000
+      },
+      {
+        "name": "GLA",
+        "image": "https://example.com/mercedes-gla.jpg",
+        "variants": ["GLA250", "AMG GLA35", "AMG GLA45"],
+        "productionYears": "2013-present",
+        "value": 36000
+      },
+      {
+        "name": "G-Class",
+        "image": "https://example.com/mercedes-gclass.jpg",
+        "variants": ["G550", "AMG G63"],
+        "productionYears": "1979-present",
+        "value": 131000
+      },
+      {
+        "name": "GLB",
+        "image": "https://example.com/mercedes-glb.jpg",
+        "variants": ["GLB250", "AMG GLB35"],
+        "productionYears": "2019-present",
+        "value": 38000
+      }
+    ],
+    "logo": "https://example.com/mercedes-logo.png"
+  },
+  {
+    "name": "Audi",
+    "models": [
+      {
+        "name": "A4",
+        "image": "https://example.com/audi-a4.jpg",
+        "variants": ["Premium", "Premium Plus", "Prestige"],
+        "productionYears": "1994-present",
+        "value": 40000
+      },
+      {
+        "name": "Q5",
+        "image": "https://example.com/audi-q5.jpg",
+        "variants": ["Premium", "Premium Plus", "Prestige"],
+        "productionYears": "2008-present",
+        "value": 45000
+      },
+      {
+        "name": "A6",
+        "image": "https://example.com/audi-a6.jpg",
+        "variants": ["Premium", "Premium Plus", "Prestige"],
+        "productionYears": "1994-present",
+        "value": 55000
+      },
+      {
+        "name": "Q7",
+        "image": "https://example.com/audi-q7.jpg",
+        "variants": ["Premium", "Premium Plus", "Prestige"],
+        "productionYears": "2005-present",
+        "value": 55000
+      },
+      {
+        "name": "A3",
+        "image": "https://example.com/audi-a3.jpg",
+        "variants": ["Premium", "Premium Plus", "Prestige"],
+        "productionYears": "1996-present",
+        "value": 33000
+      },
+      {
+        "name": "Q3",
+        "image": "https://example.com/audi-q3.jpg",
+        "variants": ["Premium", "Premium Plus", "Prestige"],
+        "productionYears": "2011-present",
+        "value": 35000
+      },
+      {
+        "name": "A5",
+        "image": "https://example.com/audi-a5.jpg",
+        "variants": ["Premium", "Premium Plus", "Prestige"],
+        "productionYears": "2007-present",
+        "value": 44000
+      },
+      {
+        "name": "Q8",
+        "image": "https://example.com/audi-q8.jpg",
+        "variants": ["Premium", "Premium Plus", "Prestige"],
+        "productionYears": "2018-present",
+        "value": 68000
+      },
+      {
+        "name": "TT",
+        "image": "https://example.com/audi-tt.jpg",
+        "variants": ["Coupe", "Roadster"],
+        "productionYears": "1998-present",
+        "value": 50000
+      },
+      {
+        "name": "e-tron",
+        "image": "https://example.com/audi-etron.jpg",
+        "variants": ["Premium Plus", "Prestige"],
+        "productionYears": "2018-present",
+        "value": 65000
+      }
+    ],
+    "logo": "https://example.com/audi-logo.png"
+  },
+  {
+    "name": "Hyundai",
+    "models": [
+      {
+        "name": "Elantra",
+        "image": "https://example.com/hyundai-elantra.jpg",
+        "variants": ["SE", "SEL", "Limited", "N Line"],
+        "productionYears": "1990-present",
+        "value": 21000
+      },
+      {
+        "name": "Tucson",
+        "image": "https://example.com/hyundai-tucson.jpg",
+        "variants": ["SE", "SEL", "Limited", "Hybrid"],
+        "productionYears": "2004-present",
+        "value": 26000
+      },
+      {
+        "name": "Sonata",
+        "image": "https://example.com/hyundai-sonata.jpg",
+        "variants": ["SE", "SEL", "SEL Plus", "Limited"],
+        "productionYears": "1985-present",
+        "value": 24000
+      },
+      {
+        "name": "Santa Fe",
+        "image": "https://example.com/hyundai-santafe.jpg",
+        "variants": ["SE", "SEL", "Limited", "Calligraphy"],
+        "productionYears": "2000-present",
+        "value": 28000
+      },
+      {
+        "name": "Kona",
+        "image": "https://example.com/hyundai-kona.jpg",
+        "variants": ["SE", "SEL", "Limited", "N Line"],
+        "productionYears": "2017-present",
+        "value": 22000
+      },
+      {
+        "name": "Palisade",
+        "image": "https://example.com/hyundai-palisade.jpg",
+        "variants": ["SE", "SEL", "Limited", "Calligraphy"],
+        "productionYears": "2018-present",
+        "value": 33000
+      },
+      {
+        "name": "Accent",
+        "image": "https://example.com/hyundai-accent.jpg",
+        "variants": ["SE", "SEL", "Limited"],
+        "productionYears": "1994-present",
+        "value": 16000
+      },
+      {
+        "name": "Veloster",
+        "image": "https://example.com/hyundai-veloster.jpg",
+        "variants": ["2.0", "Turbo", "N"],
+        "productionYears": "2011-present",
+        "value": 19000
+      },
+      {
+        "name": "Ioniq",
+        "image": "https://example.com/hyundai-ioniq.jpg",
+        "variants": ["Blue", "SE", "SEL", "Limited"],
+        "productionYears": "2016-present",
+        "value": 23000
+      },
+      {
+        "name": "Venue",
+        "image": "https://example.com/hyundai-venue.jpg",
+        "variants": ["SE", "SEL", "Denim"],
+        "productionYears": "2019-present",
+        "value": 19000
+      }
+    ],
+    "logo": "https://example.com/hyundai-logo.png"
+  },
+  {
+    "name": "Kia",
+    "models": [
+      {
+        "name": "Forte",
+        "image": "https://example.com/kia-forte.jpg",
+        "variants": ["FE", "LXS", "GT-Line", "GT"],
+        "productionYears": "2008-present",
+        "value": 20000
+      },
+      {
+        "name": "Telluride",
+        "image": "https://example.com/kia-telluride.jpg",
+        "variants": ["LX", "S", "EX", "SX"],
+        "productionYears": "2019-present",
+        "value": 35000
+      },
+      {
+        "name": "Sorento",
+        "image": "https://example.com/kia-sorento.jpg",
+        "variants": ["LX", "S", "EX", "SX"],
+        "productionYears": "2002-present",
+        "value": 29000
+      },
+      {
+        "name": "Sportage",
+        "image": "https://example.com/kia-sportage.jpg",
+        "variants": ["LX", "S", "EX", "SX Turbo"],
+        "productionYears": "1993-present",
+        "value": 25000
+      },
+      {
+        "name": "Optima",
+        "image": "https://example.com/kia-optima.jpg",
+        "variants": ["LX", "S", "EX", "SX"],
+        "productionYears": "2000-present",
+        "value": 24000
+      },
+      {
+        "name": "Soul",
+        "image": "https://example.com/kia-soul.jpg",
+        "variants": ["LX", "S", "GT-Line", "Turbo"],
+        "productionYears": "2009-present",
+        "value": 18000
+      },
+      {
+        "name": "Stinger",
+        "image": "https://example.com/kia-stinger.jpg",
+        "variants": ["GT-Line", "GT1", "GT2"],
+        "productionYears": "2017-present",
+        "value": 33000
+      },
+      {
+        "name": "Seltos",
+        "image": "https://example.com/kia-seltos.jpg",
+        "variants": ["LX", "S", "EX", "SX"],
+        "productionYears": "2019-present",
+        "value": 22000
+      },
+      {
+        "name": "Rio",
+        "image": "https://example.com/kia-rio.jpg",
+        "variants": ["LX", "S"],
+        "productionYears": "2000-present",
+        "value": 16000
+      },
+      {
+        "name": "Niro",
+        "image": "https://example.com/kia-niro.jpg",
+        "variants": ["LX", "LXS", "Touring", "EX Premium"],
+        "productionYears": "2016-present",
+        "value": 25000
+      }
+    ],
+    "logo": "https://example.com/kia-logo.png"
+  },
+  {
+    "name": "Volkswagen",
+    "models": [
+      {
+        "name": "Golf",
+        "image": "https://example.com/volkswagen-golf.jpg",
+        "variants": ["TSI", "GTI", "R"],
+        "productionYears": "1974-present",
+        "value": 25000
+      },
+      {
+        "name": "Tiguan",
+        "image": "https://example.com/volkswagen-tiguan.jpg",
+        "variants": ["S", "SE", "SEL", "R-Line"],
+        "productionYears": "2007-present",
+        "value": 28000
+      },
+      {
+        "name": "Passat",
+        "image": "https://example.com/volkswagen-passat.jpg",
+        "variants": ["S", "SE", "R-Line", "SEL"],
+        "productionYears": "1973-present",
+        "value": 27000
+      },
+      {
+        "name": "Jetta",
+        "image": "https://example.com/volkswagen-jetta.jpg",
+        "variants": ["S", "SE", "SEL", "GLI"],
+        "productionYears": "1979-present",
+        "value": 23000
+      },
+      {
+        "name": "Atlas",
+        "image": "https://example.com/volkswagen-atlas.jpg",
+        "variants": ["S", "SE", "SEL", "SEL Premium"],
+        "productionYears": "2017-present",
+        "value": 32000
+      },
+      {
+        "name": "Arteon",
+        "image": "https://example.com/volkswagen-arteon.jpg",
+        "variants": ["SE", "SEL", "SEL Premium R-Line"],
+        "productionYears": "2017-present",
+        "value": 38000
+      },
+      {
+        "name": "ID.4",
+        "image": "https://example.com/volkswagen-id4.jpg",
+        "variants": ["Pro", "Pro S", "AWD Pro", "AWD Pro S"],
+        "productionYears": "2020-present",
+        "value": 41000
+      },
+      {
+        "name": "Taos",
+        "image": "https://example.com/volkswagen-taos.jpg",
+        "variants": ["S", "SE", "SEL"],
+        "productionYears": "2021-present",
+        "value": 24000
+      },
+      {
+        "name": "Atlas Cross Sport",
+        "image": "https://example.com/volkswagen-atlas-cross-sport.jpg",
+        "variants": ["S", "SE", "SEL", "SEL Premium R-Line"],
+        "productionYears": "2020-present",
+        "value": 33000
+      },
+      {
+        "name": "e-Golf",
+        "image": "https://example.com/volkswagen-egolf.jpg",
+        "variants": ["SE", "SEL Premium"],
+        "productionYears": "2014-2021",
+        "value": 32000
+      }
+    ],
+    "logo": "https://example.com/volkswagen-logo.png"
+  },
+  {
+    "name": "Subaru",
+    "models": [
+      {
+        "name": "Outback",
+        "image": "https://example.com/subaru-outback.jpg",
+        "variants": ["Base", "Premium", "Limited", "Touring", "Wilderness"],
+        "productionYears": "1994-present",
+        "value": 29000
+      },
+      {
+        "name": "Forester",
+        "image": "https://example.com/subaru-forester.jpg",
+        "variants": ["Base", "Premium", "Sport", "Limited", "Touring"],
+        "productionYears": "1997-present",
+        "value": 27000
+      },
+      {
+        "name": "Impreza",
+        "image": "https://example.com/subaru-impreza.jpg",
+        "variants": ["Base", "Premium", "Sport", "Limited"],
+        "productionYears": "1992-present",
+        "value": 22000
+      },
+      {
+        "name": "Crosstrek",
+        "image": "https://example.com/subaru-crosstrek.jpg",
+        "variants": ["Base", "Premium", "Sport", "Limited"],
+        "productionYears": "2012-present",
+        "value": 24000
+      },
+      {
+        "name": "Legacy",
+        "image": "https://example.com/subaru-legacy.jpg",
+        "variants": ["Base", "Premium", "Sport", "Limited", "Touring XT"],
+        "productionYears": "1989-present",
+        "value": 26000
+      },
+      {
+        "name": "Ascent",
+        "image": "https://example.com/subaru-ascent.jpg",
+        "variants": ["Base", "Premium", "Limited", "Touring"],
+        "productionYears": "2018-present",
+        "value": 33000
+      },
+      {
+        "name": "BRZ",
+        "image": "https://example.com/subaru-brz.jpg",
+        "variants": ["Premium", "Limited"],
+        "productionYears": "2012-present",
+        "value": 28000
+      },
+      {
+        "name": "WRX",
+        "image": "https://example.com/subaru-wrx.jpg",
+        "variants": ["Base", "Premium", "Limited", "GT"],
+        "productionYears": "1992-present",
+        "value": 30000
+      },
+      {
+        "name": "Solterra",
+        "image": "https://example.com/subaru-solterra.jpg",
+        "variants": ["Premium", "Limited", "Touring"],
+        "productionYears": "2022-present",
+        "value": 45000
+      },
+      {
+        "name": "XV",
+        "image": "https://example.com/subaru-xv.jpg",
+        "variants": ["Base", "Premium", "Sport", "Limited"],
+        "productionYears": "2012-present",
+        "value": 25000
+      }
+    ],
+    "logo": "https://example.com/subaru-logo.png"
+  },
+  {
+    "name": "Mazda",
+    "models": [
+      {
+        "name": "Mazda3",
+        "image": "https://example.com/mazda3.jpg",
+        "variants": ["Base", "Select", "Preferred", "Premium"],
+        "productionYears": "2003-present",
+        "value": 23000
+      },
+      {
+        "name": "CX-5",
+        "image": "https://example.com/mazda-cx5.jpg",
+        "variants": ["Sport", "Touring", "Grand Touring", "Signature"],
+        "productionYears": "2012-present",
+        "value": 28000
+      },
+      {
+        "name": "CX-30",
+        "image": "https://example.com/mazda-cx30.jpg",
+        "variants": ["Base", "Select", "Preferred", "Premium"],
+        "productionYears": "2019-present",
+        "value": 24000
+      },
+      {
+        "name": "Mazda6",
+        "image": "https://example.com/mazda6.jpg",
+        "variants": ["Sport", "Touring", "Grand Touring", "Signature"],
+        "productionYears": "2002-present",
+        "value": 26000
+      },
+      {
+        "name": "CX-9",
+        "image": "https://example.com/mazda-cx9.jpg",
+        "variants": ["Sport", "Touring", "Grand Touring", "Signature"],
+        "productionYears": "2006-present",
+        "value": 35000
+      },
+      {
+        "name": "MX-5 Miata",
+        "image": "https://example.com/mazda-mx5.jpg",
+        "variants": ["Sport", "Club", "Grand Touring"],
+        "productionYears": "1989-present",
+        "value": 27000
+      },
+      {
+        "name": "CX-3",
+        "image": "https://example.com/mazda-cx3.jpg",
+        "variants": ["Sport", "Touring", "Grand Touring"],
+        "productionYears": "2015-2021",
+        "value": 22000
+      },
+      {
+        "name": "CX-50",
+        "image": "https://example.com/mazda-cx50.jpg",
+        "variants": ["S", "Select", "Preferred", "Premium"],
+        "productionYears": "2022-present",
+        "value": 29000
+      },
+      {
+        "name": "MX-30",
+        "image": "https://example.com/mazda-mx30.jpg",
+        "variants": ["Base", "Premium Plus"],
+        "productionYears": "2021-present",
+        "value": 34000
+      },
+      {
+        "name": "CX-90",
+        "image": "https://example.com/mazda-cx90.jpg",
+        "variants": ["Select", "Preferred", "Premium", "Premium Plus"],
+        "productionYears": "2023-present",
+        "value": 40000
+      }
+    ],
+    "logo": "https://example.com/mazda-logo.png"
+  },
+  {
+    "name": "Lexus",
+    "models": [
+      {
+        "name": "RX",
+        "image": "https://example.com/lexus-rx.jpg",
+        "variants": ["RX 350", "RX 450h", "RX 350L", "RX 450hL"],
+        "productionYears": "1998-present",
+        "value": 50000
+      },
+      {
+        "name": "ES",
+        "image": "https://example.com/lexus-es.jpg",
+        "variants": ["ES 250", "ES 350", "ES 300h"],
+        "productionYears": "1989-present",
+        "value": 45000
+      },
+      {
+        "name": "NX",
+        "image": "https://example.com/lexus-nx.jpg",
+        "variants": ["NX 250", "NX 350", "NX 350h", "NX 450h+"],
+        "productionYears": "2014-present",
+        "value": 40000
+      },
+      {
+        "name": "IS",
+        "image": "https://example.com/lexus-is.jpg",
+        "variants": ["IS 300", "IS 350"],
+        "productionYears": "1999-present",
+        "value": 42000
+      },
+      {
+        "name": "GX",
+        "image": "https://example.com/lexus-gx.jpg",
+        "variants": ["GX 460"],
+        "productionYears": "2002-present",
+        "value": 55000
+      },
+      {
+        "name": "LS",
+        "image": "https://example.com/lexus-ls.jpg",
+        "variants": ["LS 500", "LS 500h"],
+        "productionYears": "1989-present",
+        "value": 80000
+      },
+      {
+        "name": "UX",
+        "image": "https://example.com/lexus-ux.jpg",
+        "variants": ["UX 200", "UX 250h"],
+        "productionYears": "2018-present",
+        "value": 35000
+      },
+      {
+        "name": "LC",
+        "image": "https://example.com/lexus-lc.jpg",
+        "variants": ["LC 500", "LC 500h"],
+        "productionYears": "2017-present",
+        "value": 95000
+      },
+      {
+        "name": "RC",
+        "image": "https://example.com/lexus-rc.jpg",
+        "variants": ["RC 300", "RC 350", "RC F"],
+        "productionYears": "2014-present",
+        "value": 48000
+      },
+      {
+        "name": "LX",
+        "image": "https://example.com/lexus-lx.jpg",
+        "variants": ["LX 600"],
+        "productionYears": "1995-present",
+        "value": 90000
+      }
+    ],
+    "logo": "https://example.com/lexus-logo.png"
+  },
+  {
+    "name": "Acura",
+    "models": [
+      {
+        "name": "TLX",
+        "image": "https://example.com/acura-tlx.jpg",
+        "variants": ["Standard", "Technology", "A-Spec", "Advance"],
+        "productionYears": "2014-present",
+        "value": 40000
+      },
+      {
+        "name": "RDX",
+        "image": "https://example.com/acura-rdx.jpg",
+        "variants": ["Standard", "Technology", "A-Spec", "Advance"],
+        "productionYears": "2006-present",
+        "value": 42000
+      },
+      {
+        "name": "MDX",
+        "image": "https://example.com/acura-mdx.jpg",
+        "variants": ["Standard", "Technology", "A-Spec", "Advance"],
+        "productionYears": "2000-present",
+        "value": 50000
+      },
+      {
+        "name": "ILX",
+        "image": "https://example.com/acura-ilx.jpg",
+        "variants": ["Standard", "Premium", "Technology", "A-Spec"],
+        "productionYears": "2012-present",
+        "value": 28000
+      },
+      {
+        "name": "NSX",
+        "image": "https://example.com/acura-nsx.jpg",
+        "variants": ["Standard", "Type S"],
+        "productionYears": "1990-2005, 2016-2022",
+        "value": 160000
+      },
+      {
+        "name": "RLX",
+        "image": "https://example.com/acura-rlx.jpg",
+        "variants": ["Standard", "Sport Hybrid"],
+        "productionYears": "2013-2020",
+        "value": 55000
+      },
+      {
+        "name": "TSX",
+        "image": "https://example.com/acura-tsx.jpg",
+        "variants": ["Standard", "Special Edition"],
+        "productionYears": "2003-2014",
+        "value": 30000
+      },
+      {
+        "name": "TL",
+        "image": "https://example.com/acura-tl.jpg",
+        "variants": ["Standard", "Type-S"],
+        "productionYears": "1995-2014",
+        "value": 35000
+      },
+      {
+        "name": "ZDX",
+        "image": "https://example.com/acura-zdx.jpg",
+        "variants": ["Standard", "Technology", "Advance"],
+        "productionYears": "2009-2013",
+        "value": 45000
+      },
+      {
+        "name": "Integra",
+        "image": "https://example.com/acura-integra.jpg",
+        "variants": ["Standard", "A-Spec"],
+        "productionYears": "1985-2001, 2022-present",
+        "value": 32000
+      }
+    ],
+    "logo": "https://example.com/acura-logo.png"
+  },
+  {
+    "name": "Volvo",
+    "models": [
+      {
+        "name": "XC90",
+        "image": "https://example.com/volvo-xc90.jpg",
+        "variants": ["Momentum", "R-Design", "Inscription"],
+        "productionYears": "2002-present",
+        "value": 55000
+      },
+      {
+        "name": "S60",
+        "image": "https://example.com/volvo-s60.jpg",
+        "variants": ["Momentum", "R-Design", "Inscription"],
+        "productionYears": "2000-present",
+        "value": 40000
+      },
+      {
+        "name": "XC60",
+        "image": "https://example.com/volvo-xc60.jpg",
+        "variants": ["Momentum", "R-Design", "Inscription"],
+        "productionYears": "2008-present",
+        "value": 45000
+      },
+      {
+        "name": "V90",
+        "image": "https://example.com/volvo-v90.jpg",
+        "variants": ["Momentum", "R-Design", "Inscription"],
+        "productionYears": "2016-present",
+        "value": 52000
+      },
+      {
+        "name": "S90",
+        "image": "https://example.com/volvo-s90.jpg",
+        "variants": ["Momentum", "R-Design", "Inscription"],
+        "productionYears": "2016-present",
+        "value": 50000
+      },
+      {
+        "name": "V60",
+        "image": "https://example.com/volvo-v60.jpg",
+        "variants": ["Momentum", "R-Design", "Inscription"],
+        "productionYears": "2010-present",
+        "value": 42000
+      },
+      {
+        "name": "XC40",
+        "image": "https://example.com/volvo-xc40.jpg",
+        "variants": ["Momentum", "R-Design", "Inscription"],
+        "productionYears": "2017-present",
+        "value": 35000
+      },
+      {
+        "name": "C40",
+        "image": "https://example.com/volvo-c40.jpg",
+        "variants": ["Recharge Twin", "Recharge Twin Pro"],
+        "productionYears": "2021-present",
+        "value": 58000
+      },
+      {
+        "name": "S40",
+        "image": "https://example.com/volvo-s40.jpg",
+        "variants": ["T4", "T5"],
+        "productionYears": "1995-2012",
+        "value": 25000
+      },
+      {
+        "name": "V40",
+        "image": "https://example.com/volvo-v40.jpg",
+        "variants": ["Kinetic", "Momentum", "Inscription"],
+        "productionYears": "2012-2019",
+        "value": 30000
+      }
+    ],
+    "logo": "https://example.com/volvo-logo.png"
+  },
+  {
+    "name": "Jeep",
+    "models": [
+      {
+        "name": "Wrangler",
+        "image": "https://example.com/jeep-wrangler.jpg",
+        "variants": ["Sport", "Sahara", "Rubicon", "4xe"],
+        "productionYears": "1986-present",
+        "value": 35000
+      },
+      {
+        "name": "Grand Cherokee",
+        "image": "https://example.com/jeep-grandcherokee.jpg",
+        "variants": ["Laredo", "Limited", "Trailhawk", "Summit"],
+        "productionYears": "1992-present",
+        "value": 40000
+      },
+      {
+        "name": "Cherokee",
+        "image": "https://example.com/jeep-cherokee.jpg",
+        "variants": ["Latitude", "Trailhawk", "Limited", "High Altitude"],
+        "productionYears": "1974-present",
+        "value": 30000
+      },
+      {
+        "name": "Compass",
+        "image": "https://example.com/jeep-compass.jpg",
+        "variants": ["Sport", "Latitude", "Limited", "Trailhawk"],
+        "productionYears": "2006-present",
+        "value": 25000
+      },
+      {
+        "name": "Renegade",
+        "image": "https://example.com/jeep-renegade.jpg",
+        "variants": ["Sport", "Latitude", "Trailhawk", "Limited"],
+        "productionYears": "2014-present",
+        "value": 23000
+      },
+      {
+        "name": "Gladiator",
+        "image": "https://example.com/jeep-gladiator.jpg",
+        "variants": ["Sport", "Overland", "Rubicon", "Mojave"],
+        "productionYears": "2019-present",
+        "value": 35000
+      },
+      {
+        "name": "Grand Wagoneer",
+        "image": "https://example.com/jeep-grandwagoneer.jpg",
+        "variants": ["Series I", "Series II", "Obsidian"],
+        "productionYears": "2021-present",
+        "value": 88000
+      },
+      {
+        "name": "Wagoneer",
+        "image": "https://example.com/jeep-wagoneer.jpg",
+        "variants": ["Series I", "Series II", "Series III"],
+        "productionYears": "2021-present",
+        "value": 60000
+      },
+      {
+        "name": "Commander",
+        "image": "https://example.com/jeep-commander.jpg",
+        "variants": ["Sport", "Limited", "Overland"],
+        "productionYears": "2005-2010",
+        "value": 20000
+      },
+      {
+        "name": "Patriot",
+        "image": "https://example.com/jeep-patriot.jpg",
+        "variants": ["Sport", "Latitude", "Limited"],
+        "productionYears": "2006-2017",
+        "value": 15000
+      }
+    ],
+    "logo": "https://example.com/jeep-logo.png"
+  },
+  {
+    "name": "Ram",
+    "models": [
+      {
+        "name": "1500",
+        "image": "https://example.com/ram-1500.jpg",
+        "variants": ["Tradesman", "Big Horn", "Laramie", "Limited"],
+        "productionYears": "2009-present",
+        "value": 35000
+      },
+      {
+        "name": "2500",
+        "image": "https://example.com/ram-2500.jpg",
+        "variants": ["Tradesman", "Big Horn", "Power Wagon", "Limited"],
+        "productionYears": "2009-present",
+        "value": 45000
+      },
+      {
+        "name": "3500",
+        "image": "https://example.com/ram-3500.jpg",
+        "variants": ["Tradesman", "Big Horn", "Laramie", "Limited"],
+        "productionYears": "2009-present",
+        "value": 50000
+      },
+      {
+        "name": "ProMaster",
+        "image": "https://example.com/ram-promaster.jpg",
+        "variants": ["1500", "2500", "3500"],
+        "productionYears": "2013-present",
+        "value": 35000
+      },
+      {
+        "name": "ProMaster City",
+        "image": "https://example.com/ram-promastercity.jpg",
+        "variants": ["Tradesman Cargo", "Wagon"],
+        "productionYears": "2015-present",
+        "value": 28000
+      },
+      {
+        "name": "Dakota",
+        "image": "https://example.com/ram-dakota.jpg",
+        "variants": ["ST", "SLT", "TRX4"],
+        "productionYears": "1987-2011",
+        "value": 20000
+      },
+      {
+        "name": "Chassis Cab",
+        "image": "https://example.com/ram-chassiscab.jpg",
+        "variants": ["3500", "4500", "5500"],
+        "productionYears": "2009-present",
+        "value": 40000
+      },
+      {
+        "name": "1500 Classic",
+        "image": "https://example.com/ram-1500classic.jpg",
+        "variants": ["Tradesman", "Express", "SLT"],
+        "productionYears": "2019-present",
+        "value": 30000
+      },
+      {
+        "name": "1500 TRX",
+        "image": "https://example.com/ram-1500trx.jpg",
+        "variants": ["Base", "Launch Edition"],
+        "productionYears": "2021-present",
+        "value": 72000
+      },
+      {
+        "name": "Cargo Van",
+        "image": "https://example.com/ram-cargovan.jpg",
+        "variants": ["Tradesman"],
+        "productionYears": "2012-2015",
+        "value": 25000
+      }
+    ],
+    "logo": "https://example.com/ram-logo.png"
+  },
+  {
+    "name": "GMC",
+    "models": [
+      {
+        "name": "Sierra",
+        "image": "https://example.com/gmc-sierra.jpg",
+        "variants": ["SLE", "Elevation", "SLT", "AT4", "Denali"],
+        "productionYears": "1999-present",
+        "value": 38000
+      },
+      {
+        "name": "Yukon",
+        "image": "https://example.com/gmc-yukon.jpg",
+        "variants": ["SLE", "SLT", "AT4", "Denali"],
+        "productionYears": "1992-present",
+        "value": 55000
+      },
+      {
+        "name": "Terrain",
+        "image": "https://example.com/gmc-terrain.jpg",
+        "variants": ["SLE", "SLT", "AT4", "Denali"],
+        "productionYears": "2010-present",
+        "value": 30000
+      },
+      {
+        "name": "Acadia",
+        "image": "https://example.com/gmc-acadia.jpg",
+        "variants": ["SLE", "SLT", "AT4", "Denali"],
+        "productionYears": "2007-present",
+        "value": 35000
+      },
+      {
+        "name": "Canyon",
+        "image": "https://example.com/gmc-canyon.jpg",
+        "variants": ["Elevation", "AT4", "Denali"],
+        "productionYears": "2004-present",
+        "value": 28000
+      },
+      {
+        "name": "Savana",
+        "image": "https://example.com/gmc-savana.jpg",
+        "variants": ["Cargo", "Passenger", "Cutaway"],
+        "productionYears": "1996-present",
+        "value": 33000
+      },
+      {
+        "name": "Hummer EV",
+        "image": "https://example.com/gmc-hummerev.jpg",
+        "variants": ["EV2", "EV2X", "EV3X", "Edition 1"],
+        "productionYears": "2021-present",
+        "value": 80000
+      },
+      {
+        "name": "Envoy",
+        "image": "https://example.com/gmc-envoy.jpg",
+        "variants": ["SLE", "SLT", "Denali"],
+        "productionYears": "1998-2009",
+        "value": 15000
+      },
+      {
+        "name": "Jimmy",
+        "image": "https://example.com/gmc-jimmy.jpg",
+        "variants": ["SLS", "SLE", "SLT"],
+        "productionYears": "1970-2005",
+        "value": 10000
+      },
+      {
+        "name": "Sonoma",
+        "image": "https://example.com/gmc-sonoma.jpg",
+        "variants": ["SLS", "SLE", "SLT"],
+        "productionYears": "1982-2004",
+        "value": 8000
+      }
+    ],
+    "logo": "https://example.com/gmc-logo.png"
+  },
+  {
+    "name": "Chrysler",
+    "models": [
+      {
+        "name": "300",
+        "image": "https://example.com/chrysler-300.jpg",
+        "variants": ["Touring", "Touring L", "S", "Limited"],
+        "productionYears": "2004-present",
+        "value": 32000
+      },
+      {
+        "name": "Pacifica",
+        "image": "https://example.com/chrysler-pacifica.jpg",
+        "variants": ["Touring", "Touring L", "Limited", "Pinnacle"],
+        "productionYears": "2016-present",
+        "value": 35000
+      },
+      {
+        "name": "Voyager",
+        "image": "https://example.com/chrysler-voyager.jpg",
+        "variants": ["L", "LX"],
+        "productionYears": "2020-present",
+        "value": 28000
+      },
+      {
+        "name": "Town & Country",
+        "image": "https://example.com/chrysler-townandcountry.jpg",
+        "variants": ["LX", "Touring", "Limited"],
+        "productionYears": "1990-2016",
+        "value": 20000
+      },
+      {
+        "name": "200",
+        "image": "https://example.com/chrysler-200.jpg",
+        "variants": ["LX", "Limited", "S", "C"],
+        "productionYears": "2011-2017",
+        "value": 15000
+      },
+      {
+        "name": "PT Cruiser",
+        "image": "https://example.com/chrysler-ptcruiser.jpg",
+        "variants": ["Classic", "Touring", "Limited"],
+        "productionYears": "2000-2010",
+        "value": 8000
+      },
+      {
+        "name": "Sebring",
+        "image": "https://example.com/chrysler-sebring.jpg",
+        "variants": ["LX", "Touring", "Limited"],
+        "productionYears": "1995-2010",
+        "value": 10000
+      },
+      {
+        "name": "Crossfire",
+        "image": "https://example.com/chrysler-crossfire.jpg",
+        "variants": ["Base", "Limited", "SRT-6"],
+        "productionYears": "2004-2008",
+        "value": 15000
+      },
+      {
+        "name": "Aspen",
+        "image": "https://example.com/chrysler-aspen.jpg",
+        "variants": ["Limited", "Signature"],
+        "productionYears": "2007-2009",
+        "value": 12000
+      },
+      {
+        "name": "Concorde",
+        "image": "https://example.com/chrysler-concorde.jpg",
+        "variants": ["LX", "LXi", "Limited"],
+        "productionYears": "1993-2004",
+        "value": 5000
+      }
+    ],
+    "logo": "https://example.com/chrysler-logo.png"
+  }
+]
